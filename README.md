@@ -42,5 +42,5 @@ Here are a few of my latest and best projects:
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/huzaifa-mateen-b86534318/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaifa-mateen-b86534318/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:huzaifamateen87.com)
