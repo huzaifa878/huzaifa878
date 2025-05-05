@@ -33,26 +33,14 @@
 
 ### 📂 Pinned Projects
 Here are a few of my latest and best projects:
-- 🔹 [JavaScript Mini Projects](https://github.com/your-username/js-mini-projects)
-- 🔹 [Responsive Landing Page with Tailwind](https://github.com/your-username/tailwind-landing-page)
-- 🔹 [React Notes App](https://github.com/your-username/react-notes-app)
-- 🔹 [Next.js Portfolio Starter](https://github.com/your-username/nextjs-portfolio)
+- 🔹 [CSS Mini Project](https://github.com/huzaifa878/Netflix-Clone)
 
 > 💡 *You can see more projects in my repositories section!*
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react" alt="Huzaifa's stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=react" alt="Streak" />
-</p>
-
----
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/huzaifa-mateen-b86534318/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:huzaifamateen87.com)
